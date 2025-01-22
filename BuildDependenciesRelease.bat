@@ -19,3 +19,5 @@ cmake --build libs/funchook/build-x64 --config Release
 cmake --build libs/funchook/build-arm64 --config Release
 cmake --build libs/zlib/build-x64 --config Release
 cmake --build libs/zlib/build-arm64 --config Release
+
+pause
